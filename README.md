@@ -31,7 +31,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Author
-[Your Name]
+Vasanth Marimuthu
 
 Acknowledgments
 Special thanks to the creators of the Turtle module for providing an easy-to-use graphics library for Python.
