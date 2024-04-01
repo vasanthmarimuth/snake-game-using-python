@@ -9,7 +9,7 @@ Score Tracking: The game keeps track of the player's score. There's also a high 
 
 Collision Detection: The game detects collisions between the snake and the walls or its own body. If a collision occurs, the game ends, and the player's score is reset.
 
-How to Play
+How to Play:
 Clone the repository to your local machine.
 Make sure you have Python installed.
 Run the main.py file to start the game.
@@ -25,17 +25,17 @@ scoreboard.py: Implements the ScoreBoard class to track and display the player's
 data.txt: A text file used to store the high score.
 
 
-Dependencies
+Dependencies:
 Python 3.x
 Turtle module (built-in with Python)
 Contributions
 Contributions to improve the game, add features, or fix bugs are welcome. Fork the repository, make your changes, and submit a pull request.
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Author
+Author:
 Vasanth Marimuthu
 
-Acknowledgments
+Acknowledgments:
 Special thanks to the creators of the Turtle module for providing an easy-to-use graphics library for Python.
