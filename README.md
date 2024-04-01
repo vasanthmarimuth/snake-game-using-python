@@ -15,12 +15,16 @@ Make sure you have Python installed.
 Run the main.py file to start the game.
 Control the snake using the arrow keys.
 Eat as much food as possible without colliding with the walls or the snake's body.
+
+
 Files
 main.py: The main Python script that initializes the game and controls the game loop.
 snake.py: Contains the Snake class, which manages the snake's behavior.
 food.py: Defines the Food class responsible for generating food pellets.
 scoreboard.py: Implements the ScoreBoard class to track and display the player's score.
 data.txt: A text file used to store the high score.
+
+
 Dependencies
 Python 3.x
 Turtle module (built-in with Python)
